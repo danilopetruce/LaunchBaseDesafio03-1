@@ -20,10 +20,11 @@ Dica: Para capturar essas requisições, basta adicionar esse trecho após todas
 server.use(function(req, res) {
   res.status(404).render("not-found");
 });
+
 <h1>Estilização</h1>
 Você tem liberdade para escolher a estilização que preferir para esse desafio.
 
 
-📆<h1>Entrega</h1>
+<h1>Entrega</h1>
 Esse desafio não precisa ser entregue e não receberá correção. Após concluí-lo, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
 
